@@ -4,4 +4,5 @@ tar czf
 git rev-list --all
 ls -- \
 	";" "|" '\
-' cp -alzx
+' cp -alx
+cp -alx
